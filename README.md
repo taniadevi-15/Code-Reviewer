@@ -13,3 +13,11 @@ Code Reviewer is a web application that analyzes your code and provides optimize
 1. Paste or upload your code.  
 2. Click the "Review" button.  
 3. Get an optimized version along with improvement suggestions.  
+
+## Installation  
+To run the project locally:  
+```sh
+git clone https://github.com/tania303-ai/Code-Reviewer.git  
+cd Code-Reviewer  
+npm install  
+npm start  
