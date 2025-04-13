@@ -1,6 +1,6 @@
 # Code Reviewer 🚀  
 
-## About  
+## Overview
 Code Reviewer is a web application that analyzes your code and provides optimized, efficient versions. Whether you're looking to improve performance, reduce redundancy, or follow best practices, Code Reviewer helps refine your code for better results.  
 
 ## Features  
